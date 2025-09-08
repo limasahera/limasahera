@@ -1,6 +1,6 @@
 # Hi there 👋
 <h1 align="center">Hi 👋, I'm Lima Sahera</h1>
-<h3 align="center">First -year Bioinformatics Engineering Student(Bangladesh Agricultural University) |Passionate about coding & Problem solving.</h3>
+<h3 align="center">First -year Bioinformatics Engineering Student (Bangladesh Agricultural University) ||Passionate about coding & Problem solving.</h3>
 
 - ⚡ Fun fact **Even through I study *Bioinformatics Engineering * my heart beats for **Computer Science****
 
